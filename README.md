@@ -56,3 +56,54 @@ Built on Raspberry Pi 4, the system integrates multiple embedded hardware module
 - Develop an energy-efficient embedded safety platform
 
 ---
+
+# ✨ Key Features
+
+## 🚨 Intelligent Safety Features
+
+- ✅ Real-Time Accident Detection using MPU6050
+- ✅ Accelerometer & Gyroscope Sensor Fusion
+- ✅ Automatic Emergency SMS Transmission
+- ✅ Live GPS Location Tracking
+- ✅ Voice-Based Rider Confirmation System
+- ✅ 10-Second Emergency Alert Cancellation
+- ✅ Low False Alarm Accident Detection
+
+---
+
+## 🛵 Smart Rider Assistance
+
+- ✅ Transparent OLED Head-Up Display (HUD)
+- ✅ Real-Time Navigation Assistance
+- ✅ Speed Monitoring & System Status Display
+- ✅ Hands-Free Rider Assistance
+- ✅ Automatic System Initialization
+- ✅ Continuous Real-Time Sensor Monitoring
+
+---
+
+## ⚡ Embedded System Features
+
+- ✅ Raspberry Pi 4 Based Embedded Platform
+- ✅ Energy-Efficient System Design
+- ✅ Lithium-Ion Battery Charging & Protection
+- ✅ Stable 5V Power Regulation using XL6009
+- ✅ Compact Smart Helmet Prototype
+- ✅ Modular & Scalable Architecture
+
+---
+
+## 🔌 Communication Interfaces
+
+- ✅ UART Communication
+- ✅ I²C Communication
+- ✅ SPI Communication
+- ✅ USB Audio Interface
+
+## Source Code Availability
+
+The implementation source code is currently not publicly available due to ongoing intellectual property protection and patent filing.
+
+This repository is intended to showcase the project architecture, hardware implementation, system design, documentation, and demonstration.
+
+If you are a recruiter, researcher, or academic interested in this work, please feel free to contact me.
